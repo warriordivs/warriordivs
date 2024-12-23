@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @warriordivs
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Dotnet
-- 💞️ I’m looking to collaborate on Peer Programming
+- 💞️ I’m looking to collaborate on Pair Programming
 - 📫 How to reach me <a href="https://www.linkedin.com/in/divsthewarrior/"> LinkedIn </a>
 
 <!---
